@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>supremo</id>
+    <version>0.0.1</version>
+    <packageSourceUrl>https://github.com/elarifr/chocolatey-packages/tree/main/supremo-beta</packageSourceUrl>
+    <owners>Elbaz-Ari-Accedinfo.com</owners>
+    <title>SupRemo-Beta (Install)</title>
+    <authors>Nanosystems S.r.l.</authors>
+    <projectUrl>https://www.supremocontrol.com/download-supremo/supremo-beta-channel/</projectUrl>
+    <copyright>Nanosystems S.R.L.</copyright>
+    <licenseUrl>https://www.supremocontrol.com/eula-en/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://www.supremocontrol.com/frequently-asked-questions/</docsUrl>
+    <tags>supremo remote desktop control RDP teamviewer anydesk </tags>
+    <summary>The easy-to-use and powerful remote desktop solution for Windows</summary>
+    <description>The Complete Remote Desktop Solution from supremocontrol.com
+Access and remotely control PCs and Servers or launch a Meeting in just a few seconds.
+Supremo supports USilio and is UAC-compatible. It is available on Play store and iTunes.
+- Security and Protection
+- Cross Platform Windows MacOs IOS Android Linux
+- No Configuration Required to start
+- Or Install for Unattended Acces and set restriction
+- Pass through Firewall
+- Free Automatic Update
+- Free Adress Book Local or OnLine
+- Customizable Interface for Pro 
+For stable release use supremo package</description>
+    <releaseNotes>https://www.supremocontrol.com/changelog/</releaseNotes>
+  </metadata>
+</package>
